@@ -1,4 +1,4 @@
-# 📍 LocationSnhika — Xcode GPS Spoofer
+# 📍 FindMy-Spoof — Xcode GPS Spoofer
 
 > Simulate any GPS location on iOS using Xcode's built-in location simulation feature. No jailbreak. No third-party tools. Just a `.gpx` file.
 
@@ -6,7 +6,7 @@
 
 ## 🗺️ What is this?
 
-**LocationSnhika** is a `.gpx` file that lets you fake your iPhone or iPad's GPS location directly from Xcode — useful for testing location-based apps, games, or features without physically moving.
+**FindMy-Spoof** is a `.gpx` file that lets you fake your iPhone or iPad's GPS location directly from Xcode — useful for testing location-based apps, games, or features without physically moving.
 
 Currently set to 📌 **Greater Noida, India** (`28.4501° N, 77.5845° E`)
 
@@ -27,7 +27,7 @@ Currently set to 📌 **Greater Noida, India** (`28.4501° N, 77.5845° E`)
 ### Step 1 — Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/LocationSnhika.git
+git clone https://github.com/yourusername/FindMy-Spoof.git
 ```
 
 ### Step 2 — Open Xcode and run your app
@@ -109,7 +109,7 @@ This project is intended **for development and testing purposes only** — such 
 ## 📁 Project Structure
 
 ```
-LocationSnhika/
+FindMy-Spoof/
 ├── newlocation.gpx   # GPX file with spoofed coordinates
 └── README.md         # You're reading it
 ```
